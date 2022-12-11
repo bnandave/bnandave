@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhavesh Nandave
 - 👀 I’m interested in ...Software Development
-- 🌱 I’m currently  ...Grade 12th Student
+- 🌱 I’m currently  ...Freshman at Pune University.
 - 📫 You can E-mail me at bnandave@gmail.com
 
 <!---
